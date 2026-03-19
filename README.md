@@ -41,9 +41,15 @@ Understand the key differences between casual riders and annual members to suppo
 ---
 
 ## Visualizations
-- Average Ride Length: Members vs Casual Riders
-- Ride Frequency by Day of Week
-- Bike Type Usage by Rider Type
+
+### Average Ride Length: Members vs Casual Riders
+![Average Ride Length](AVERAGE of ride_length vs. member_casual....png)
+
+### Ride Frequency by Day of Week
+![Ride Frequency](Ride Frequency by Day of Week_ Members v....png)
+
+### Bike Type Usage by Rider Type
+![Bike Type](casual, member and Grand Total.png)
 
 ---
 
