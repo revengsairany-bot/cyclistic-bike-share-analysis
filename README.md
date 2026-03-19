@@ -46,7 +46,7 @@ Understand the key differences between casual riders and annual members to suppo
 ![Average Ride Length](ride-length.png)
 
 ### Ride Frequency by Day of Week
-![Ride Frequency](ride-frequency.png)
+![Ride Frequency](bike-frequency.png)
 
 ### Bike Type Usage by Rider Type
 ![Bike Type](bike-type.png)
